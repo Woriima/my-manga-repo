@@ -1,0 +1,11 @@
+[
+  {
+    "name": "AzoraFly",
+    "pkg": "org.usagi.parser.azorafly",
+    "apk": "azorafly-plugin.jar",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "lang": "ar",
+    "nsfw": 0
+  }
+]
