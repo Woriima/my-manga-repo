@@ -2,7 +2,7 @@
   {
     "name": "AzoraFly",
     "pkg": "org.usagi.parser.azorafly",
-    "apk": "azorafly-plugin.jar",
+    "apk": "https://raw.githubusercontent.com/Woriima/my-manga-repo/refs/heads/main/azorafly-plugin.jar",
     "version": "1.0.0",
     "versionCode": 1,
     "lang": "ar",
