@@ -1,7 +1,7 @@
 [
   {
     "name": "AzoraFly",
-    "pkg": "org.usagi.parser.azorafly",
+    "pkg": "tsuki.site.all",
     "apk": "plugin.jar",
     "version": "1.0.0",
     "versionCode": 1,
