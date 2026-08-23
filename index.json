@@ -1,46 +1,10 @@
 [
   {
-    "name": "AzoraFly",
+    "name": "Arabic Manga Plugins",
     "pkg": "tsuki.site.all",
     "apk": "plugin.jar",
-    "version": "1.0.6",
-    "versionCode": 7,
-    "lang": "ar",
-    "nsfw": 0
-  },
-  {
-    "name": "MangaDar",
-    "pkg": "tsuki.site.all",
-    "apk": "plugin.jar",
-    "version": "1.0.6",
-    "versionCode": 7,
-    "lang": "ar",
-    "nsfw": 0
-  },
-  {
-    "name": "RocksManga",
-    "pkg": "tsuki.site.all",
-    "apk": "plugin.jar",
-    "version": "1.0.6",
-    "versionCode": 7,
-    "lang": "ar",
-    "nsfw": 0
-  },
-  {
-    "name": "Mangawy",
-    "pkg": "tsuki.site.all",
-    "apk": "plugin.jar",
-    "version": "1.0.6",
-    "versionCode": 7,
-    "lang": "ar",
-    "nsfw": 0
-  },
-  {
-    "name": "Olympustaff",
-    "pkg": "tsuki.site.all",
-    "apk": "plugin.jar",
-    "version": "1.0.6",
-    "versionCode": 7,
+    "version": "1.0.8",
+    "versionCode": 9,
     "lang": "ar",
     "nsfw": 0
   }
